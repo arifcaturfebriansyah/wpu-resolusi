@@ -1,6 +1,6 @@
 WPU RESOLUSI
-- Konsisten untuk membuat konten 2x seminggu
-- Membuat platform untuk pengelolaan video
-- Membuat forum diskusi
-- Kolaborasi dengan lebih banyak expert
-- Membuat vlog
+- Konsisten untuk membuat konten 1 minggu sekali 
+- Membuat forum komunitas 
+- Membuat server diskusi pendidikan di discord
+- menemukan mentor mentor baru 
+- Membuat video yang lebih bagus lagi
